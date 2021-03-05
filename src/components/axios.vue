@@ -21,7 +21,7 @@
       <b-row>
         />
 
-        <h1 align="center" style="color:#ffea00">Coronal Mass Ejection (CME)</h1></b-row>
+        <h1 style="color:#ffea00">Coronal Mass Ejection (CME)</h1></b-row>
       
         <br /><br />
       
